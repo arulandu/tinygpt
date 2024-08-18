@@ -1,0 +1,34 @@
+gpt.py, torch, metal
+
+step 0: train loss 4.2221, val loss 4.2306
+step 500: train loss 1.7427, val loss 1.9050
+step 1000: train loss 1.3909, val loss 1.6013
+step 1500: train loss 1.2677, val loss 1.5269
+step 2000: train loss 1.1868, val loss 1.5051
+step 2500: train loss 1.1191, val loss 1.4954
+step 3000: train loss 1.0707, val loss 1.4842
+step 3500: train loss 1.0190, val loss 1.5109
+step 4000: train loss 0.9606, val loss 1.5259
+step 4500: train loss 0.9122, val loss 1.5527
+step 4999: train loss 0.8566, val loss 1.5577
+
+all escence; all fough what I were blind,
+which we may play the revelting with the face.
+
+MENENIUS:
+Well, you have sent for their prison. They
+were bants: west great Bohemia is with him elded.
+
+FRIAR LAURENCE:
+Retire not o'er his reason, perstand but find him here:
+But yet they must call me but again.
+
+Vost:
+You are then they which you are mild, more one enforth
+Being a name of royance.
+
+ROMEO:
+A slain! not comfort by the tide,
+Not on my sheel acqueth to all; where not you
+have rather kindred wh
+( python gpt.py; )  1491.99s user 404.51s system 47% cpu 1:07:07.89 total
